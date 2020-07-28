@@ -1,0 +1,18 @@
+{
+    "name": "wored/yitiao-sdk",
+    "description": "一条开放接口sdk",
+    "authors": [
+        {
+            "name": "qiliu",
+            "email": "qiliuf@gmail.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wored\\YitiaoSdk\\": "src"
+        }
+    }
+}
